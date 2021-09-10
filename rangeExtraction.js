@@ -20,4 +20,5 @@ function solution(list){
          results.push(list[i]);
        }
      }
-     return results.join(',');
+     return results.join(',')
+    }
